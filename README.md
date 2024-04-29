@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Gianni
+
+I'm a product manager turned engineer. Most recently, I built DataLoaf, an open-source, self-hostable product analytics platform.
+
+[Check out DataLoaf](data-loaf.com)
+
+[Check out my personal site](giannibarber.com)
 
 <!--
 **giannibarber/giannibarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
