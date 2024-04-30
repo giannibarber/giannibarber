@@ -10,7 +10,7 @@ I'm a product manager turned engineer. Most recently, I built DataLoaf, an open-
 
 |Category|Technologies|
 |---|---|
-|Programming Languages|JavaScript, Clojure|
+|Programming Languages|JavaScript|
 |Web Development|Express, React, Node.js, JSX, HTML5, CSS|
 |Databases|SQL, PostgreSQL, MongoDB|
 |Cloud Services|Digital Ocean, Amazon Web Services (AWS)|
