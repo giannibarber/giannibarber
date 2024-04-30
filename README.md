@@ -4,7 +4,7 @@ I'm a product manager turned engineer. Most recently, I built DataLoaf, an open-
 
 [Check out DataLoaf](data-loaf.com)
 
-[Check out my personal site](giannibarber.com)
+[Visit my personal site](giannibarber.com)
 
 ## Here's my Stack:
 
@@ -16,7 +16,7 @@ I'm a product manager turned engineer. Most recently, I built DataLoaf, an open-
 |Cloud Services|Digital Ocean, Amazon Web Services (AWS)|
 |Containerization|Docker|
 |APIs and Testing|RESTful APIs, Jest|
-|Other|WebSockets, Postman, Git, Mixpanel, Jira|
+|Other|WebSockets, Postman, Git, Mixpanel, Jira, nginx|
 
 <!--
 **giannibarber/giannibarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
