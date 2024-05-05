@@ -2,9 +2,9 @@
 
 I'm a product manager turned engineer. Most recently, I built DataLoaf, an open-source, self-hostable product analytics platform.
 
-[Check out DataLoaf](data-loaf.com)
+[Check out DataLoaf](https://data-loaf.com)
 
-[Visit my personal site](giannibarber.com)
+[Visit my personal site](https://giannibarber.com)
 
 ## Here's my Stack:
 
