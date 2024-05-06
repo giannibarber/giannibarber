@@ -1,6 +1,11 @@
 # Hi, I'm Gianni
 
-I'm a product manager turned engineer. Most recently, I built DataLoaf, an open-source, self-hostable product analytics platform.
+I’m a product manager turned engineer.
+
+Both at and outside of work, I have a perpetual drive to think about the ways software can augment our lives in novel, private and delightful ways.
+Most recently, I built [DataLoaf](https://data-loaf.com/)–an open-source, self-hostable product analytics platform. You might enjoy checking it out through [this comprehensive case study](https://data-loaf.com/docs/category/case-study).
+
+If you want to reach out to me, the best way is [via email](mailto:personalsite.unchain294@passmail.net).
 
 [Check out DataLoaf](https://data-loaf.com)
 
@@ -15,8 +20,8 @@ I'm a product manager turned engineer. Most recently, I built DataLoaf, an open-
 |Databases|SQL, PostgreSQL, MongoDB|
 |Cloud Services|Digital Ocean, Amazon Web Services (AWS)|
 |Containerization|Docker|
-|APIs and Testing|RESTful APIs, Jest|
-|Other|WebSockets, Postman, Git, Mixpanel, Jira, nginx|
+|APIs and Testing|RESTful APIs, Postman, Jest|
+|Other|WebSockets, Git, Mixpanel, Jira, nginx|
 
 <!--
 **giannibarber/giannibarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
